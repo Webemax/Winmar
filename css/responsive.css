@@ -1,0 +1,271 @@
+@media(max-width:1199px){
+	
+.container {
+    padding: 0 30px;
+}
+.top-head {
+    right: 59px;
+}
+.box-in {
+    border-radius: 0 55px;
+}
+.win-img-box li {
+    right: 19%;
+}
+.snd-item {
+    right: 145px !important;
+}	
+.thrid-item::before {
+    width: 101px !important;
+}
+.forth-item {
+    left: 188px !important;
+}
+.fve-item {
+    left: 141px;
+}
+.six-item::before {
+    width: 101px !important;
+}
+.seven-item {
+    left: 190px;
+    width: 210px !important;
+}
+.seven-item::before {
+    left: 105px;
+}
+.win-img-box li h4 {
+    font-size: 13px;
+}	
+.detail-list {
+    right: -139px;
+}
+.workflow h4 {
+    font-size: 22px;
+}
+.slider .wrap {
+    height: 200px;
+}	
+.seven-item {
+    width: 220px !important;
+}
+
+	}
+	
+@media(max-width:991px){	
+.nav.navbar-nav.navbar-right a {
+    font-size: 13px;
+    padding: 22px 8px 0;
+}	
+.portfolio .col-xs-3 {
+    margin: 0 0 20px;
+    padding: 0 40px;
+    width: 50%;
+}
+.workflow h4 {
+    font-size: 17px;
+}
+.os .col-xs-2 {
+    width: 20%;
+}
+.foot-area p a {
+    margin: 5px 0 0 5px;
+}
+.box-in {
+    overflow: hidden;
+}
+.forth-item {
+    left: 98px !important;
+}
+.fve-item {
+    left: 35px;
+}
+.six-item {
+    left: 17px;
+}
+.seven-item {
+    left: 100px;
+}
+.snd-item {
+    right: 95px !important;
+}
+.thrid-item {
+    right: 10px !important;
+}
+.win-img-box .eight {
+    left: 60% !important;
+}
+.six-item .detail-list {
+    left: 0;
+}
+.snd-item .detail-list {
+    right: -102px;
+}
+.thrid-item .detail-list {
+    right: -17px;
+}
+
+.col-xs-6.pnd-ryt {
+    padding-right:0px;
+}
+#typed {
+    font-size: 16px;
+}
+#typed > span {
+    font-size: 20px;
+}
+.slider .wrap {
+    height: 140px;
+}
+	}
+
+
+@media(max-width:767px){
+.navbar-toggle {
+    border: medium none;
+    margin-bottom: 0px;
+    margin-top: 24px;
+}
+.wrap {
+    height: 200px;
+}
+.slider {
+    height: 314px;
+}
+.portfolio .col-xs-3 {
+    margin: 0 0 20px;
+    padding: 0 12px;
+    width: 50%;
+}
+.fontface .col-xs-8 {
+    width: 100%;
+}
+.foot-area .col-xs-4 {
+    text-align: center;
+    width: 100%;
+}
+.foot-area .form-control {
+    width: 100%;
+}
+.foot-area button {
+    float: none;
+    margin: auto;
+
+}
+.foot-area .col-xs-3 {
+    width: 33.33%;
+}
+.get-a-quote .row .col-xs-6 {
+    width: 100%;
+}
+.get-a-quote label {
+    font-size: 13px;
+}
+.os .col-xs-2 {
+    margin: 0 0 20px;
+    width: 50%;
+}
+.workflow .col-xs-2 {
+    width: 50%;
+}
+.workflow {
+    height: auto;
+
+}
+.workflow .col-xs-2 {
+    height: 212px;
+    width: 50%;
+}
+.workflow .col-xs-2:nth-child(2) {
+    width: 100%;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #3fcbe3;
+}
+.navbar-toggle .icon-bar {
+    border-radius: 0;
+    display: block;
+    height: 4px;
+    width: 26px;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+.top-head {
+    right: 0;
+    width: 100%;
+    text-align: center;
+}
+.winmax-point {
+    display: none;
+}
+.slider .wrap {
+    height: 220px;
+}
+.arrow-up::before{ display:none;}
+.arrow-down::after{ display:none;}
+    
+.slider .wrap {
+    width: 460px;
+}    
+	}
+
+@media(max-width:550px){
+#typed {
+    color: #fff;
+    font-size: 13px;
+}
+.wrap {
+    height: 120px;
+}
+.slider {
+    height: 254px;
+}
+.portfolio .col-xs-3 {
+    margin: 0 0 10px;
+    width: 100%;
+}
+.workflow .col-xs-2 {
+    width: 100%;
+}
+.container {
+    padding: 0 10px;
+}
+.os .col-xs-2 {
+    margin: 0 0 10px;
+    width: 100%;
+}
+.get-a-quote .col-xs-6 {
+    width: 100%;
+}
+.navbar-brand > img {
+    position: relative;
+    top: 17px;
+    width: 200px;
+}
+.slider a {
+    font-size: 15px;
+    margin: 0;
+    padding: 8px 19px;
+}
+.slider .fa.fa-angle-right {
+    font-size: 40px;
+    right: 3px;
+    top: -2px;
+}
+.slider .wrap {
+    width: 290px;
+}
+.slider .wrap {
+    height: 160px;
+}    
+.palne, .palne.to  {
+    display: none;
+}
+.winmax-head {
+    display: none;
+}
+	}
